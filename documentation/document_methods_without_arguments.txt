@@ -1,0 +1,5 @@
+To use .upcase on a string, simple call the .upcase method on the string. 
+
+string_example = 'give me big letters'
+
+string_example.upcase

@@ -1,0 +1,3 @@
+According to the doc, you can create a symbol using : and different characters.
+
+For example: :alex is a symbol of my name. This is found under the literals page as well.

@@ -1,0 +1,3 @@
+Found String Class
+
+On the String Class Page, you can find rjust which will convert your string to a new string justified to the right side of the page.

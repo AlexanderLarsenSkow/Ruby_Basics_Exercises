@@ -1,0 +1,7 @@
+If I want to make numbers easier to read when I write Ruby code, I can use _. This information is found under Literals 
+and Number Literals on the doc. 
+		
+		12_800_502		= 	12,800,502
+		
+		19_87_65_4321 is not the correct way to write the number. While Ruby accepts it as valid, the point of using _ is to make the 
+		code more readable for humans. It should be 1_987_654_321. 

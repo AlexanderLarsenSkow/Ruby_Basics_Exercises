@@ -1,0 +1,3 @@
+You can find the while loop under control_expressions on the doc. 
+
+You can find control_expressions under syntax on the left side bar on the home screen.
